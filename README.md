@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/89dc83aa-88e7-4cd5-bf1d-41720b9f3b23)
 # Sentiment Analyzer
 
 This project is a Sentiment Analyzer application that uses machine learning techniques to classify text reviews as positive or negative. It employs two classifiers: Naive Bayes and Support Vector Machine (SVM). The application features a graphical user interface (GUI) built with Tkinter for easy interaction.
